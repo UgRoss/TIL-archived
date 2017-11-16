@@ -6,14 +6,18 @@ A collection of concise write-ups on small things I learn day to day across a va
 ---
 ### Categories
 * [Sass](#sass)
+* [Javascript](#javascript)
 
 ---
 ### Saas
 - [Maps and `@each` directive](/sass/maps.md)
 
+### Javascript
+- [Blog post featured image with GatsbyJS](/javascript/gatsby-featured-post-image.md)
+
 
 # License
 
-© 2015-2017 Rostyslav Ugryniuk
+© 2017 Rostyslav Ugryniuk
 
 This repository is licensed under the MIT license. See LICENSE for details.
