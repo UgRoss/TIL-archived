@@ -18,6 +18,7 @@ These are things that don't really warrant a full blog post.
 ### Saas
 
 * [Maps and `@each` directive](/sass/maps.md)
+* [Access maps with `map-get` function](/sass/access-maps.md)
 
 ### Javascript
 
