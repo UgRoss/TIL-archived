@@ -23,6 +23,7 @@ These are things that don't really warrant a full blog post.
 ### Javascript
 
 * [Blog post featured image with GatsbyJS](/javascript/gatsby-featured-post-image.md)
+* [Differences between undefined and null](/javascript/differences-between-undefined-and-null.md)
 
 ### Development Tools
 
