@@ -9,28 +9,29 @@ These are things that don't really warrant a full blog post.
 
 ### Categories
 
-* [Sass](#sass)
-* [Javascript](#javascript)
-* [Develompent Tools](#development-tools)
+- [Sass](#sass)
+- [Javascript](#javascript)
+- [Develompent Tools](#development-tools)
 
 ---
 
 ### Saas
 
-* [Maps and `@each` directive](/sass/maps.md)
-* [Access maps with `map-get` function](/sass/access-maps.md)
+- [Maps and `@each` directive](/sass/maps.md)
+- [Access maps with `map-get` function](/sass/access-maps.md)
 
 ### Javascript
 
-* [Blog post featured image with GatsbyJS](/javascript/gatsby-featured-post-image.md)
-* [Differences between undefined and null](/javascript/differences-between-undefined-and-null.md)
+- [Blog post featured image with GatsbyJS](/javascript/gatsby-featured-post-image.md)
+- [Differences between `undefined` and `null`](/javascript/differences-between-undefined-and-null.md)
+- [`URLSearchParams` interface](/javascript/URLSearchParams.md)
 
 ### Development Tools
 
-* [Google cloud SDK quick install](/development-tools/google-sdk-installation.md)
+- [Google cloud SDK quick install](/development-tools/google-sdk-installation.md)
 
 # License
 
-© 2017 Rostyslav Ugryniuk
+© 2018 Rostyslav Ugryniuk
 
 This repository is licensed under the MIT license. See LICENSE for details.
