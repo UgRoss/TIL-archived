@@ -22,9 +22,10 @@ These are things that don't really warrant a full blog post.
 
 ### Javascript
 
-- [Blog post featured image with GatsbyJS](/javascript/gatsby-featured-post-image.md)
 - [Differences between `undefined` and `null`](/javascript/differences-between-undefined-and-null.md)
-- [`URLSearchParams` interface](/javascript/URLSearchParams.md)
+- [`URLSearchParams` interface - Utility method to work with the query string of a URL](/javascript/URLSearchParams.md)
+- [`Math.sign()` - Get sign of a number](/javascript/Math-Sign.md)
+- [Blog post featured image with GatsbyJS](/javascript/gatsby-featured-post-image.md)
 
 ### Development Tools
 
