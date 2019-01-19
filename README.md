@@ -26,6 +26,7 @@ These are things that don't really warrant a full blog post.
 - [`URLSearchParams` interface - Utility method to work with the query string of a URL](/javascript/URLSearchParams.md)
 - [`Math.sign()` - Get sign of a number](/javascript/Math-Sign.md)
 - [Blog post featured image with GatsbyJS](/javascript/gatsby-featured-post-image.md)
+- [The Abstract Equality Comparison Algorithm](/javascript/19-01-19-the-abstract-equality-comparison-algorithm.md)
 
 ### Development Tools
 
