@@ -9,24 +9,28 @@ These are things that don't really warrant a full blog post.
 
 ### Categories
 
+- [HTML](#HTML)
+- [JavaScript](#javascript)
 - [Sass](#sass)
-- [Javascript](#javascript)
 - [Develompent Tools](#development-tools)
 
 ---
 
-### Saas
+### HTML
+- [<bdo>](/html/19-01-26-bdo-tag.md)
 
-- [Maps and `@each` directive](/sass/maps.md)
-- [Access maps with `map-get` function](/sass/access-maps.md)
-
-### Javascript
+### JavaScript
 
 - [Differences between `undefined` and `null`](/javascript/differences-between-undefined-and-null.md)
 - [`URLSearchParams` interface - Utility method to work with the query string of a URL](/javascript/URLSearchParams.md)
 - [`Math.sign()` - Get sign of a number](/javascript/Math-Sign.md)
 - [Blog post featured image with GatsbyJS](/javascript/gatsby-featured-post-image.md)
 - [The Abstract Equality Comparison Algorithm](/javascript/19-01-19-the-abstract-equality-comparison-algorithm.md)
+
+### Sass
+
+- [Maps and `@each` directive](/sass/maps.md)
+- [Access maps with `map-get` function](/sass/access-maps.md)
 
 ### Development Tools
 
