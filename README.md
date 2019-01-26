@@ -34,6 +34,6 @@ These are things that don't really warrant a full blog post.
 
 # License
 
-© 2018 Rostyslav Ugryniuk
+© 2018-2019 Rostyslav Ugryniuk
 
 This repository is licensed under the MIT license. See LICENSE for details.
