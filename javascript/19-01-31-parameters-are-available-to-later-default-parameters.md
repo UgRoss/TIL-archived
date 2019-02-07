@@ -1,10 +1,3 @@
----
-title: Parameters are available to later default parameters
-date: 'Thu, 31 Jan 2019 22:39:19 +0200'
-stacks:
-  - javascript
----
-
 Parameters defined beforehand (to the left) are available to later default parameters:
 
 ```javascript

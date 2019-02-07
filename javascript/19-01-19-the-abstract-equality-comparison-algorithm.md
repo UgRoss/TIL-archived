@@ -1,10 +1,3 @@
----
-title: The Abstract Equality Comparison Algorithm
-date: 'Sat, 19 Jan 2019 22:20:15 +0200'
-stacks:
-    - javascript
----
-
 The equals operator can be pretty straightforward and useful if understand how it works 🙂
 
 #### The Abstract Equality Comparison Algorithm

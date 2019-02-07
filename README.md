@@ -33,8 +33,9 @@ These are things that don't really warrant a full blog post.
 - [Maps and `@each` directive](/sass/maps.md)
 - [Access maps with `map-get` function](/sass/access-maps.md)
 
-### Development Tools
+### Developer Tools
 
+- [You can `copy()` from the console](/development-tools/07-02-19-devtools-copy.md)
 - [Google cloud SDK quick install](/development-tools/google-sdk-installation.md)
 
 # License
