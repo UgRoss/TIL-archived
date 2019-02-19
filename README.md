@@ -19,6 +19,7 @@ These are things that don't really warrant a full blog post.
 
 ### HTML
 - [`<bdo>`](/html/19-01-26-bdo-tag.md)
+- [`<progress>`](/html/progress.md)
 
 ### JavaScript
 
