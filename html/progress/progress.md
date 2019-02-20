@@ -13,4 +13,4 @@ Example:
 <progress value="20" max="100"></progress>
 ```
 
-<progress value="20" max="100"></progress>
+![Demo](./demo.gif)
