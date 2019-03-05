@@ -29,6 +29,7 @@ These are things that don't really warrant a full blog post.
 - [Blog post featured image with GatsbyJS](/javascript/gatsby-featured-post-image.md)
 - [The Abstract Equality Comparison Algorithm](/javascript/19-01-19-the-abstract-equality-comparison-algorithm.md)
 - [Parameters are available to later default parameters in a function](/javascript/19-01-31-parameters-are-available-to-later-default-parameters.md)
+- [`Object.freeze()`](/javascript/Object-freeze.md)
 
 ### TypeScript
 
