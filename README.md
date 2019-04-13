@@ -18,6 +18,7 @@ These are things that don't really warrant a full blog post.
 ---
 
 ### HTML
+
 - [`<bdo>`](/html/19-01-26-bdo-tag.md)
 - [`<progress>`](/html/progress/progress.md)
 
@@ -39,6 +40,10 @@ These are things that don't really warrant a full blog post.
 
 - [Maps and `@each` directive](/sass/maps.md)
 - [Access maps with `map-get` function](/sass/access-maps.md)
+
+### Algorithms:
+
+- [`Bubble sorting`](/algorithms/bubble-sorting.md)
 
 ### Developer Tools
 
