@@ -4,5 +4,5 @@ I collected information about Linked Lists inside my blog [article](https://ugro
 
 **Code:**
 
-- Singly Linked List: [JavaScript](./LinkedList.js)
-- Doubly Linked List: [JavaScript](./DoublyLinkedList.js)
+- [Singly Linked List](./LinkedList.js)
+- [Doubly Linked List](./DoublyLinkedList.js)
