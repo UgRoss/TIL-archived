@@ -41,9 +41,13 @@ These are things that don't really warrant a full blog post.
 - [Maps and `@each` directive](/sass/maps.md)
 - [Access maps with `map-get` function](/sass/access-maps.md)
 
+### Data Structures
+
+- [Linked Lists](./data-structures/linked-list/linked-list.md)
+
 ### Algorithms:
 
-- [`Bubble sorting`](/algorithms/bubble-sorting.md)
+- [Bubble sorting](/algorithms/bubble-sorting.md)
 
 ### Developer Tools
 
