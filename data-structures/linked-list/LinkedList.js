@@ -8,7 +8,7 @@ class Node {
     this.next = next;
   }
 }
-
+Ï
 export default class LinkedList {
   constructor() {
     this.head = null;
@@ -91,24 +91,32 @@ export default class LinkedList {
       return null;
     }
 
+    let deletedNode = null; // Keep deleted Node to return it
+
     if (this.head.value === value) {
-      const deletedNote = this.head;
+      deletedNode = this.head;
       // Now make next node to be a new head
       this.head = this.head.next;
-
-      return deletedNote;
     }
 
     let currentNode = this.head;
-    while (currentNode.next !== null) {
-      if (currentNode.next.value === value) {
-        const deletedNode = currentNode.next;
-        currentNode.next = currentNode.next.next;
-        return deletedNode;
+    if (currentNode !== null && deletedNode === null) {
+      while (currentNode.next !== null) {
+        if (currentNode.next.value === value) {
+          deletedNode = currentNode.next;
+          currentNode.next = currentNode.next.next;
+        } else {
+          currentNode = currentNode.next;
+        }
       }
-
-      currentNode = currentNode.next;
     }
+
+    // Check if tail contains Node with the value we are looking for
+    if (this.tail.value === value) {
+      this.tail = currentNode;
+    }
+
+    return deletedNode;
   }
 
   /**

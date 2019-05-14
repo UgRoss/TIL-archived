@@ -35,7 +35,7 @@ Here is one of the possible ways to implement bubble sorting:
 
 ```javascript
 function bubbleSort(inputArr) {
-  const arr = inputArr;
+  const arr = [...inputArr];
 
   for (let i = 0; i < arr.length - 1; i++) {
     for (let j = 0; j < arr.length - 1 - i; j++) {
@@ -54,7 +54,7 @@ Even if an array is sorted the function always runs O(n²) time. It can be optim
 
 ```javascript
 function bubbleSort(inputArr) {
-  const arr = inputArr;
+  const arr = [...inputArr];
   let swapped = false;
 
   for (let i = 0; i < arr.length - 1; i++) {
