@@ -8,7 +8,7 @@ class Node {
     this.next = next;
   }
 }
-Ï
+
 export default class LinkedList {
   constructor() {
     this.head = null;
