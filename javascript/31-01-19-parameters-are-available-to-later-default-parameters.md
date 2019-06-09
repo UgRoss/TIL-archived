@@ -1,3 +1,5 @@
+# Advanced Default Parameters Usage
+
 Parameters defined beforehand (to the left) are available to later default parameters:
 
 ```javascript

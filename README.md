@@ -19,8 +19,9 @@ These are things that don't really warrant a full blog post.
 
 ### HTML
 
-- [`<bdo>`](/html/19-01-26-bdo-tag.md)
+- [`<bdo>`](/html/26-01-19-bdo-tag.md)
 - [`<progress>`](/html/progress/progress.md)
+- [`<base>`](/html/09-06-19-base-tag.md)
 
 ### JavaScript
 
@@ -29,7 +30,7 @@ These are things that don't really warrant a full blog post.
 - [`Math.sign()` - Get sign of a number](/javascript/Math-Sign.md)
 - [Blog post featured image with GatsbyJS](/javascript/gatsby-featured-post-image.md)
 - [The Abstract Equality Comparison Algorithm](/javascript/19-01-19-the-abstract-equality-comparison-algorithm.md)
-- [Parameters are available to later default parameters in a function](/javascript/19-01-31-parameters-are-available-to-later-default-parameters.md)
+- [Parameters are available to later default parameters in a function](/javascript/31-01-19-parameters-are-available-to-later-default-parameters.md)
 - [`Object.freeze()`](/javascript/Object-freeze.md)
 
 ### TypeScript
