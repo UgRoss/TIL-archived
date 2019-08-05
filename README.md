@@ -7,7 +7,7 @@ These are things that don't really warrant a full blog post.
 
 ---
 
-### Categories
+## Categories
 
 - [HTML](#HTML)
 - [JavaScript](#javascript)
@@ -37,6 +37,7 @@ These are things that don't really warrant a full blog post.
 ### TypeScript
 
 - [Enums](/typescript/enums.md)
+- [Interface vs Type Alias](/typescript/interface-vs-type.md)
 
 ### Sass
 
@@ -47,7 +48,7 @@ These are things that don't really warrant a full blog post.
 
 - [Linked Lists](./data-structures/linked-list/linked-list.md)
 
-### Algorithms:
+### Algorithms
 
 - [Bubble sorting](/algorithms/bubble-sorting.md)
 
@@ -56,7 +57,7 @@ These are things that don't really warrant a full blog post.
 - [You can `copy()` from the console](/development-tools/07-02-19-devtools-copy.md)
 - [Google cloud SDK quick install](/development-tools/google-sdk-installation.md)
 
-# License
+## License
 
 © 2018-2019 Rostyslav Ugryniuk
 
