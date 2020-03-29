@@ -39,6 +39,10 @@ These are things that don't really warrant a full blog post.
 - [Enums](/typescript/enums.md)
 - [Interface vs Type Alias](/typescript/interface-vs-type.md)
 
+### Git
+
+- [How to checkout to previous branch](/git/29-03-20-checkout-to-prev-branch.md)
+
 ### Sass
 
 - [Maps and `@each` directive](/sass/maps.md)
